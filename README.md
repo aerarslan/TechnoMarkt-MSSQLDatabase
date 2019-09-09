@@ -1,2 +1,2 @@
 # TechnoMarkt-MSSQLDatabase
-An example database of technology company
+An comprehensive database example of a technology company.
